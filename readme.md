@@ -1,4 +1,13 @@
 # Telegram Bot-Creator Bot
+![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
+![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Generic badge](https://img.shields.io/badge/PHP->%3D5.6.4-yellow)
+![Generic badge](https://img.shields.io/badge/Laravel-5.4.*-yellow)
+
+
+
+
 Bachelor's thesis project, Jan. 2018, Shahid Beheshti University.
 
 [video demo of the main features](https://youtu.be/o6BioCvDh9k) (the bot was created for Persian users and the bots function in Farsi)
