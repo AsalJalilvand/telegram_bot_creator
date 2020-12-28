@@ -1,0 +1,9 @@
+- Clone the project.
+- add database info in .env file
+-make env.example file
+- In terminal go to project folder and run the following commands.
+composer install
+npm install
+npm run production
+php artisan migrate:refresh --seed
+php artisan key:generate
