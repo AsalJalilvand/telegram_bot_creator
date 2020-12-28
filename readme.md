@@ -1,6 +1,8 @@
 # Telegram Bot-Creator Bot
 Bachelor's thesis project, Jan. 2018, Shahid Beheshti University.
+
 [video demo of the main features](https://youtu.be/o6BioCvDh9k) (the bot was created for Persian users and the bots function in Farsi)
+
 Telegram is one of the most popular messaging apps in the world, and bots are one of its popular features. The goal of this project was to create a platform where ordinary people with no knowledge of programming can create and customize their bot.
 
 We have one central bot that guides the creators into getting a bot token from Telegram BotFather. Then, they would give the token they received to the central bot. Next, they can choose between creating a "General" or "Retail" bot. 
